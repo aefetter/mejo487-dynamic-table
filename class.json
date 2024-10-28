@@ -1,0 +1,220 @@
+{
+  "students": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "role": "student",
+      "birthday": "2008-03-12",
+      "username": "jdoe1",
+      "email": "jdoe1@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 85
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Smith",
+      "role": "student",
+      "birthday": "2007-06-22",
+      "username": "ssmith2",
+      "email": "ssmith2@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 78
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "role": "student",
+      "birthday": "2009-11-10",
+      "username": "mjohnson3",
+      "email": "mjohnson3@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 92
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Williams",
+      "role": "student",
+      "birthday": "2010-01-04",
+      "username": "rwilliams4",
+      "email": "rwilliams4@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 88
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Brown",
+      "role": "student",
+      "birthday": "2008-05-18",
+      "username": "tbrown5",
+      "email": "tbrown5@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 74
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Jones",
+      "role": "student",
+      "birthday": "2009-07-28",
+      "username": "cjones6",
+      "email": "cjones6@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 90
+    },
+    {
+      "first_name": "Carmen",
+      "last_name": "Garcia",
+      "role": "student",
+      "birthday": "2007-08-12",
+      "username": "cgarcia7",
+      "email": "cgarcia7@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 82
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Martinez",
+      "role": "student",
+      "birthday": "2010-02-03",
+      "username": "nmartinez8",
+      "email": "nmartinez8@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 76
+    },
+    {
+      "first_name": "Liam",
+      "last_name": "Alvarez",
+      "role": "student",
+      "birthday": "2009-04-23",
+      "username": "lalvarez9",
+      "email": "lalvarez9@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 95
+    },
+    {
+      "first_name": "Luna",
+      "last_name": "Hernandez",
+      "role": "student",
+      "birthday": "2008-10-14",
+      "username": "lhernandez10",
+      "email": "lhernandez10@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 68
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "White",
+      "role": "student",
+      "birthday": "2007-12-07",
+      "username": "rwhite11",
+      "email": "rwhite11@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 80
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Morris",
+      "role": "student",
+      "birthday": "2009-06-30",
+      "username": "tmorris12",
+      "email": "tmorris12@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 98
+    },
+    {
+      "first_name": "Will",
+      "last_name": "King",
+      "role": "student",
+      "birthday": "2010-09-20",
+      "username": "wking13",
+      "email": "wking13@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 65
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Gonzalez",
+      "role": "student",
+      "birthday": "2008-11-02",
+      "username": "sgonzalez14",
+      "email": "sgonzalez14@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 85
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Lee",
+      "role": "student",
+      "birthday": "2007-03-29",
+      "username": "rlee15",
+      "email": "rlee15@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 87
+    },
+    {
+      "first_name": "James",
+      "last_name": "Young",
+      "role": "student",
+      "birthday": "2009-05-12",
+      "username": "jyoung16",
+      "email": "jyoung16@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 93
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Hill",
+      "role": "student",
+      "birthday": "2010-08-19",
+      "username": "jhill17",
+      "email": "jhill17@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 72
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Hall",
+      "role": "student",
+      "birthday": "2008-12-31",
+      "username": "phall18",
+      "email": "phall18@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 84
+    },
+    {
+      "first_name": "Kathy",
+      "last_name": "Allen",
+      "role": "student",
+      "birthday": "2007-01-25",
+      "username": "kallen19",
+      "email": "kallen19@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 79
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Wright",
+      "role": "student",
+      "birthday": "2009-02-17",
+      "username": "bwright20",
+      "email": "bwright20@example.com",
+      "bioimage": "https://picsum.photos/200/300",
+      "grade": 86
+    }
+  ],
+  "instructors": [
+    {
+      "first_name": "Mark",
+      "last_name": "Teacher",
+      "role": "teacher",
+      "username": "mteacher",
+      "email": "mteacher@example.com"
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Assistant",
+      "role": "assistant",
+      "username": "aassistant",
+      "email": "aassistant@example.com"
+    }
+  ]
+}
