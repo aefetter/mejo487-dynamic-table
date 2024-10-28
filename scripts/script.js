@@ -32,6 +32,7 @@ function createTableFromJSON(jsonData) {
                 const img = document.createElement('img');
                 const randomNum = Math.floor(Math.random() * 10) + 1;
                 img.src = `${item[key]}?${randomNum}`;
+                img.width = 50;
                 img.alt = `${item["first_name"]} ${item["last_name"]}`;
                 td.appendChild(img);
             } else {
