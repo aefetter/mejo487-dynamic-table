@@ -33,7 +33,6 @@ function createTableFromJSON(jsonData) {
                 const randomNum = Math.floor(Math.random() * 10) + 1;
                 img.src = `${item[key]}?${randomNum}`;
                 img.alt = `${item["first_name"]} ${item["last_name"]}`;
-                img.width = 50; // Adjust size as needed
                 td.appendChild(img);
             } else {
                 td.textContent = item[key];
@@ -90,9 +89,9 @@ function highestGrade(jsonData){
 // Load and display the JSON data
 loadJSON('class.json')
     .then(data => {
-        // Extract and log keys from the first student object
+        // Extract keys from first object in JSON data
         const studentKeys = Object.keys(data.students[0]);
-        console.log('Student Keys:', studentKeys);
+        // console.log('Student Keys:', studentKeys);
 
         // Create and display students table
         const studentsTable = createTableFromJSON(data.students);
@@ -106,9 +105,3 @@ loadJSON('class.json')
     })
     .catch(error => console.error('Error loading JSON:', error));
 
-
-
-// // Load and display the JSON data
-// loadJSON('class.json') // Adjust path if necessary
-//     .then(data => displayData(data))
-//     .catch(error => console.error('Error loading JSON:', error));

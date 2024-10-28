@@ -1,3 +1,4 @@
+/* styling the table to look more like example */
 table {
     width: 80%;
     border-collapse: collapse;
@@ -10,5 +11,5 @@ th, td {
     text-align: left;
 }
 th {
-    background-color: #f2f2f2; /* Light grey background for header cells */
+    background-color: #f2f2f2;
 }
